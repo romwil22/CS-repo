@@ -10,6 +10,8 @@ namespace cs_helloworld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello meann");
+            Console.ReadLine();
         }
     }
 }

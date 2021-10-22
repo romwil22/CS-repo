@@ -1,0 +1,7 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\bin\Debug\cs_helloworld.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\bin\Debug\cs_helloworld.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\bin\Debug\cs_helloworld.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\obj\Debug\cs_helloworld.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\obj\Debug\cs_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\obj\Debug\cs_helloworld.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CS-repo\cs_helloworld\cs_helloworld\obj\Debug\cs_helloworld.pdb
