@@ -1,0 +1,7 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\bin\Debug\cs_programming.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\bin\Debug\cs_programming.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\bin\Debug\cs_programming.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\obj\Debug\cs_programming.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\obj\Debug\cs_programming.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\obj\Debug\cs_programming.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_programming\cs_programming\obj\Debug\cs_programming.pdb

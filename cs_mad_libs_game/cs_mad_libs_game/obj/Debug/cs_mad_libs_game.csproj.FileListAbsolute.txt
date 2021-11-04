@@ -1,0 +1,6 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_mad_libs_game\cs_mad_libs_game\bin\Debug\cs_mad_libs_game.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_mad_libs_game\cs_mad_libs_game\bin\Debug\cs_mad_libs_game.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_mad_libs_game\cs_mad_libs_game\bin\Debug\cs_mad_libs_game.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_mad_libs_game\cs_mad_libs_game\obj\Debug\cs_mad_libs_game.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_mad_libs_game\cs_mad_libs_game\obj\Debug\cs_mad_libs_game.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_mad_libs_game\cs_mad_libs_game\obj\Debug\cs_mad_libs_game.pdb

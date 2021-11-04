@@ -1,0 +1,7 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\bin\Debug\cs_variable.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\bin\Debug\cs_variable.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\bin\Debug\cs_variable.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\obj\Debug\cs_variable.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\obj\Debug\cs_variable.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\obj\Debug\cs_variable.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_variable\cs_variable\obj\Debug\cs_variable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_arrays\cs_arrays\bin\Debug\cs_arrays.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_arrays\cs_arrays\bin\Debug\cs_arrays.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_arrays\cs_arrays\bin\Debug\cs_arrays.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_arrays\cs_arrays\obj\Debug\cs_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_arrays\cs_arrays\obj\Debug\cs_arrays.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_arrays\cs_arrays\obj\Debug\cs_arrays.pdb

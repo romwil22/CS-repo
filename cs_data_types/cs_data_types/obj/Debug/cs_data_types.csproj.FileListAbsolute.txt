@@ -1,0 +1,6 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_data_types\cs_data_types\bin\Debug\cs_data_types.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_data_types\cs_data_types\bin\Debug\cs_data_types.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_data_types\cs_data_types\bin\Debug\cs_data_types.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_data_types\cs_data_types\obj\Debug\cs_data_types.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_data_types\cs_data_types\obj\Debug\cs_data_types.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_data_types\cs_data_types\obj\Debug\cs_data_types.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\bin\Debug\cs_if_statement.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\bin\Debug\cs_if_statement.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\bin\Debug\cs_if_statement.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\obj\Debug\cs_if_statement.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\obj\Debug\cs_if_statement.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\obj\Debug\cs_if_statement.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_if_statement\cs_if_statement\obj\Debug\cs_if_statement.pdb

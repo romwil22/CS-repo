@@ -1,0 +1,7 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\bin\Debug\cs_working_number.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\bin\Debug\cs_working_number.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\bin\Debug\cs_working_number.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\obj\Debug\cs_working_number.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\obj\Debug\cs_working_number.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\obj\Debug\cs_working_number.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_number\cs_working_number\obj\Debug\cs_working_number.pdb

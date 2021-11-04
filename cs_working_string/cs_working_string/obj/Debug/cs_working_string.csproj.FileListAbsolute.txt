@@ -1,0 +1,7 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\obj\Debug\cs_working_string.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\obj\Debug\cs_working_string.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\bin\Debug\cs_working_string.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\bin\Debug\cs_working_string.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\bin\Debug\cs_working_string.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\obj\Debug\cs_working_string.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_working_string\cs_working_string\obj\Debug\cs_working_string.pdb
